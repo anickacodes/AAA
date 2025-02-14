@@ -1,6 +1,6 @@
 ## Supportive Talks 🪴
 
-**Supportive Talks** is a podcast platform dedicated to empowering conversations for the mind, heart, and soul. Through inspiring and open discussions, we provide a safe and welcoming space for our audience. Join us as we explore topics of mental health, community support, and personal growth 🫶🏽.
+_**Supportive Talks**_ is a podcast platform dedicated to empowering conversations for the mind, heart, and soul. Through inspiring and open discussions, we provide a safe and welcoming space for our audience. Join us as we explore topics of mental health, community support, and personal growth 🫶🏽.
 
 ### Contents Table
 
