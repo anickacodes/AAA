@@ -44,17 +44,11 @@ To get started with this project locally:
    git clone https://github.com/your-username/AAA.git
 2. Navigate into the project directory:
     ```bash
-    Copy
-    Edit
     cd supportive-talks
 3. Install dependencies:
     ```bash
-    Copy
-    Edit
     npm install
 4. Start the development server:
     ```bash
-    Copy
-    Edit
-    npm run dev
+    npm run dev or npm run start
 5. Open the app in your browser by visiting http://localhost:3000 or your default local host.
